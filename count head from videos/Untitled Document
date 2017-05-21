@@ -1,0 +1,8 @@
+python project.py v.png    5 120 s.png t.txt
+python project.py de1.png    5 120 s2.png t2.txt
+python project.py de2.png    5 120 s3.png t3.txt
+python project.py ii1.png    5 120 s4.png t4.txt
+python project.py ii2.png    5 120 s5.png t5.txt
+
+python timevsp
+
